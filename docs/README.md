@@ -25,6 +25,8 @@ matches the work you intend to do.
   registering source units, integrating them, and verifying a batch.
 - [Runtime tracing](runtime-tracing.md) covers the pinned Mupen64Plus debugger
   used when static code or display-list evidence cannot identify a consumer.
+- [Character semantic naming](evidence/character_semantic_naming.md) connects
+  reviewed model IDs to bounded code roles while preserving linked symbols.
 - [Library track](library-track.md) records Nintendo 64 library boundary work,
   archive integration, and the associated commands.
 - [Decompilation progress](progress.md) is generated from the canonical
